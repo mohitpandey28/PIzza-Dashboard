@@ -85,6 +85,8 @@ Identify underperforming pizzas to assess their contribution to the overall busi
 
 Consider marketing or menu adjustments for low-performing items.
 
+**Technologies Used**: Tableau,MYSQL workbench ,Excel
+
 ### Overall Insights:
 
 **Seasonal Trends:** Identify any seasonality in pizza sales and adjust marketing or inventory strategies accordingly.
