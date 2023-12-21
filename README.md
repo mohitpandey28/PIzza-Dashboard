@@ -2,6 +2,7 @@
 
 ### Dashboard 1: Daily Trends and Key Performance Indicators
 
+![Screenshot 2023-12-21 at 11 15 20 PM](https://github.com/mohitpandey28/PIzza-Dashboard/assets/149960816/2372970e-2fdb-4d73-bac2-75db3e4b6d7b)
 
 
 **Daily Trend for Total Orders:**
@@ -58,7 +59,7 @@ Understand how many pizzas, on average, customers include in each order.
 
 ### Dashboard 2: Top and Bottom 5 Pizza Analysis
 
-
+![Screenshot 2023-12-21 at 11 15 40 PM](https://github.com/mohitpandey28/PIzza-Dashboard/assets/149960816/521d85d0-c3b4-4770-a507-bd1879aad62c)
 
 **Top 5 Pizzas by Revenue:**
 
